@@ -23,7 +23,7 @@ class DrumEdit extends DrumIndexView {
         $description = $drum->getDescription();
         ?>
  
-        <div id="main-header">Edit Drum Details</div>
+        <!--<div id="main-header">Edit Drum Details</div>-->
  
         <!-- display drums details in a form -->
         <form class="new-media"  action='<?= BASE_URL . "/drum/update/" . $id ?>' method="post" style="border: 1px solid #bbb; margin-top: 10px; padding: 10px;">

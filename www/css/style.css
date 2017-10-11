@@ -207,7 +207,6 @@ body footer {
 
 #login:hover {
     color: #555;
-    /*transition: 0.5s;*/
 }
 
 .loginForm {
@@ -613,6 +612,7 @@ display: flex;
 
 .guitars {
 
+    transition: 0.5s;
     width: 100px;
     height: 100px;
     border-radius: 150px;
@@ -625,7 +625,6 @@ display: flex;
 .guitars:hover {
 
     background-color: rgba(158, 207, 230, 0.51);
-    transition: 0.5s;
 
 }
 
@@ -638,6 +637,7 @@ display: flex;
 
 .drums {
 
+    transition: 0.5s;
     width: 100px;
     height: 100px;
     border-radius: 150px;
@@ -650,7 +650,6 @@ display: flex;
 
 .drums:hover {
     background-color: rgba(158, 207, 230, 0.51);
-    transition: 0.5s;
 
 }
 
@@ -806,14 +805,19 @@ form.searchHolder.fa.fa-search.fa-3x {
 
 .formHolder {
 
+    display: flex;
     width: 60%;
     height: auto;
     padding: 20px;
     border: solid 1px #bdbdbd;
     box-shadow: 20px 5px 40px black;
-    background-color: #171717;
+    background-color: black;
     color: #eaeaea;
 
+}
+
+.contactCenter {
+    margin: auto
 }
 
 .formHolder h2 {

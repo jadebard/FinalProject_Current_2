@@ -15,7 +15,7 @@ class DrumAdd extends DrumIndexView {
 
         ?>
  
-        <div id="main-header">Add Drum Details</div>
+        <!--<div id="main-header">Add Drum Details</div>-->
  
         <!-- display drums details in a form -->
         <form class="new-media"  action='<?= BASE_URL . "/drum/add/" ?>' method="post" style="border: 1px solid #bbb; margin-top: 10px; padding: 10px;">

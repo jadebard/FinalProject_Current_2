@@ -38,7 +38,7 @@ class GuitarEdit extends GuitarIndexView {
         $description = $guitar->getDescription();
         ?>
  
-        <div id="main-header">Edit Guitar Details</div>
+        <!--<div id="main-header">Edit Guitar Details</div>-->
  
         <!-- display drums details in a form -->
         <form class="new-media"  action='<?= BASE_URL . "/guitar/update/" . $id ?>' method="post" style="border: 1px solid #bbb; margin-top: 10px; padding: 10px;">

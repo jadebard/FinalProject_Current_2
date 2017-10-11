@@ -19,7 +19,7 @@ class DrumIndexView extends IndexView {
 
         <div id="searchbar">
             <form class="searchHolder fa fa-search fa-3x" method="get" action="<?= BASE_URL ?>/drum/search">
-                <input class="search" type="text" name="query-terms" id="searchtextbox" placeholder="Search drum by name" autocomplete="off" onkeyup="handleKeyUp(event)">
+                <input class="search" type="text" name="query-terms" id="searchtextbox" placeholder="Find Your Next Drumset" autocomplete="off" onkeyup="handleKeyUp(event)">
             </form>
             <div id="suggestionDiv"></div>
         </div>

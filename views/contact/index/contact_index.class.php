@@ -164,6 +164,7 @@ class ContactIndex extends IndexView {
             <h2>Contact us</h2>
             <p>Fill out the form below.</p>
             <form class="formHolder" action="" method="post">
+                <div class="contactCenter">
                 <label>First Name: <br />
                     <input class="inputContact" name="firstname" type="text" placeholder="- Enter First Name -" /><br /></label>
                 <label>Last Name: <br />
@@ -176,6 +177,7 @@ class ContactIndex extends IndexView {
                     <textarea name="Enter your message here " rows="4" cols="50"></textarea> <br/>
 
                     <input class="inputContact" name="submitted" type="submit" value="Submit" />
+                </div>
 
             </div>
             </form>

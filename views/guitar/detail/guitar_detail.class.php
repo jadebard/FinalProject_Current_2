@@ -41,25 +41,23 @@ class GuitarDetail extends IndexView {
         <div id="main-header">Guitar Details</div>
         <hr>
         <!-- display guitar details in a table -->
-        <div style="margin-top: 100px;"
-
-                <div class="wrapImg">
-
-                    <img src="<?= $image ?>" alt="<?= $title ?>" />
-                </div>
-                <div class="wrapTxtOne">
-                    <p><strong>Guitar:</strong></p>
-                    <p><?= $name ?></p>
-                    <p><strong>Type:</strong></p>
-                    <p><?= $type ?></p>
-                    <p><strong>Price:</strong></p>
-                    <p>$<?= $price ?></p>
-                    <p><strong>Description:</strong></p>
-                    <p class="media-description"><?= $description ?></p>
-                    <p><strong>Youtube:</strong></p>
-                    <a class="youtubeLink" id="youtubelink" href="<?= $youtube ?>" data-lity><p>Youtube <i class="fa fa-youtube-play" aria-hidden="true"></i></p></a>
-
-</div>
+        <div class="wrapImg" style="margin-top: 150px;">
+            
+            <img src="<?= $image ?>" alt="<?= $title ?>" />
+               
+            <div style="margin-left: 80px; width: 40%;" class="wrapTxtOne">
+                <p><strong>Guitar:</strong></p>
+                <p><?= $name ?></p>
+                <p><strong>Type:</strong></p>
+                <p><?= $type ?></p>
+                <p><strong>Price:</strong></p>
+                <p>$<?= $price ?></p>
+                <p><strong>Description:</strong></p>
+                <p class="media-description"><?= $description ?></p>
+                <p><strong>Youtube:</strong></p>
+                <a class="youtubeLink" id="youtubelink" href="<?= $youtube ?>" data-lity><p>Youtube <i class="fa fa-youtube-play" aria-hidden="true"></i></p></a>
+            </div>
+        </div>  
 
 
                 <div class="wrapTxtTwo">
