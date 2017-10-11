@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fd9cd1d-076b-446d-86eb-9aeeae0963c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Guitar Haven.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Alesis_Crimson_Digital_Set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Carlsbro_9Piece_Digital_Set.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/DW_Design_Series_Acrylic_Chrome_Drum_Set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/GibsonHP835.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Gibson_Les_Paul_Electric_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Gretsch_G5420T_Electromatic_Electric_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/PDP_DW_Double_Drive_8-Piece_Acoustic_Set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/PacificDW5-Piece.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Pearl_Export_5Piece_Acoustic_Set.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Pearl_Roadshow_Acoustic_Set.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Rogue_RA-090_Acoustic_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Rogue_RA-090_Dreadnought_Acoustic_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Roland_TD_Digital_Set.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Schecter_C1_Research_Electric_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Seagull_S6_Aoustic_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Simmons_SD500_Digital_Drum_Set .png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Sound_Percussion_Labs_Acoustic_Set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Tama_Imperialstar_Acoustic_Set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Tama_Superstar_Classic_Acoustic_Set.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Taylor_GS_Mahogany_Acoustic_Guitar_Mahogany.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Warbeast_Double_Locking_Tremolo_Electric_Guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/Yamaha_DTX522K_Electronic_Drum_Set .png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/danelectroconvert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/error.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/fenderAcoustic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/fenderJaguar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/fenderStratacoustic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/fenderTele.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/guitarandamp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/lesPaulPlusTop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/assets/taylor12string.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/videos/backgroundVidHome.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/versionOne.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/127_0_0_1.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/autoloader.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/database.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/dispatcher.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/utilities.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/about_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/contact_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/drum_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/guitar_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/user_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/welcome_controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptions/data_missing_exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptions/database_exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptions/number_exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptions/url_exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/drum.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/drum_model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/guitar.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/guitar_model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/user.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/user_model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/about/about_index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/about/index/about_index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/contact/contact_index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/contact/index/contact_index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/add/drum_add.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/confirm/confirm_drum.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/delete/drum_delete.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/detail/drum_detail.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/drum_index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/edit/drum_edit.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/error/drum_error.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/index/drum_index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/drum/search/drum_search.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/add/guitar_add.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/confirm/confirm_guitar.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/delete/guitar_delete.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/detail/guitar_detail.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/edit/guitar_edit.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/error/guitar_error.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/guitar_index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/index/guitar_index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/guitar/search/guitar_search.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/confirm/confirm_login.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/error/user_error.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/logout/confirm_logout.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/user_index_view.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/welcome/welcome_index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/lity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/sweetalert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/ajax_autosuggestion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/sweetalert.min.js" />
+    </list>
+    <ignored path="FinalProject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FinalProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config.php" />
+        <option value="$PROJECT_DIR$/models/drum.class.php" />
+        <option value="$PROJECT_DIR$/models/drum_model.class.php" />
+        <option value="$PROJECT_DIR$/views/drums/index/drum_index.class.php" />
+        <option value="$PROJECT_DIR$/controllers/drum_controller.class.php" />
+        <option value="$PROJECT_DIR$/application/config.php" />
+        <option value="$PROJECT_DIR$/views/welcome/welcome_index.class.php" />
+        <option value="$PROJECT_DIR$/models/drum_model.class.php" />
+        <option value="$PROJECT_DIR$/models/guitar.class.php" />
+        <option value="$PROJECT_DIR$/views/drums/index/drum_index.class.php" />
+        <option value="$PROJECT_DIR$/models/guitar_model.class.php" />
+        <option value="$PROJECT_DIR$/views/drums/detail/drum_detail.class.php" />
+        <option value="$PROJECT_DIR$/controllers/drum_controller.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/search/drum_search.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/search/guitar_search.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/guitar_index_view.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/drum_index_view.class.php" />
+        <option value="$PROJECT_DIR$/www/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/www/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/bower_components/sweetalert/dist/sweetalert.css" />
+        <option value="$PROJECT_DIR$/views/contact/index/contact_index.class.php" />
+        <option value="$PROJECT_DIR$/application/database.class.php" />
+        <option value="$PROJECT_DIR$/exceptions/number_exception.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/error/drum_error.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/confirm/confirm_drum.class.php" />
+        <option value="$PROJECT_DIR$/www/js/ajax_autosuggestion.js" />
+        <option value="$PROJECT_DIR$/views/guitar/delete/guitar_delete.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/confirm/confirm_guitar.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/error/guitar_error.class.php" />
+        <option value="$PROJECT_DIR$/views/index_view.class.php" />
+        <option value="$PROJECT_DIR$/views/users/logout/confirm_logout.class.php" />
+        <option value="$PROJECT_DIR$/views/users/confirm/confirm_login.class.php" />
+        <option value="$PROJECT_DIR$/controllers/guitar_controller.class.php" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/views/drum/delete/drum_delete.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/edit/guitar_edit.class.php" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/views/drum/detail/drum_detail.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/edit/drum_edit.class.php" />
+        <option value="$PROJECT_DIR$/views/users/error/user_error.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/detail/guitar_detail.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/add/guitar_add.class.php" />
+        <option value="$PROJECT_DIR$/views/drum/index/drum_index.class.php" />
+        <option value="$PROJECT_DIR$/views/guitar/index/guitar_index.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinalProject_Current_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject_Current_2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/bin" />
+      <recent name="$PROJECT_DIR$/www/css" />
+      <recent name="$PROJECT_DIR$/www" />
+      <recent name="$PROJECT_DIR$/www/css/font-awesome-4.7.0/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd9cd1d-076b-446d-86eb-9aeeae0963c8" name="Default" comment="" />
+      <created>1491863709270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491863709270</updated>
+      <workItem from="1507740007891" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="428000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28144988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/welcome/welcome_index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/guitar.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/drum.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/drum_model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="206" column="1" lean-forward="false" selection-start-line="206" selection-start-column="1" selection-end-line="206" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/welcome_controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/dispatcher.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/drum_controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="72" column="22" lean-forward="false" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/font-awesome-4.7.0/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/search/guitar_search.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/autoloader.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/database.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions/database_exception.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact/contact_index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions/number_exception.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact/index/contact_index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="122" column="8" lean-forward="false" selection-start-line="122" selection-start-column="8" selection-end-line="126" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/user_index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions/url_exception.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/search/drum_search.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/confirm/confirm_drum.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/ajax_autosuggestion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/delete/guitar_delete.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/error/guitar_error.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="63" lean-forward="false" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/bin/lity/src/lity.js" />
+    <entry file="file://$PROJECT_DIR$/views/drum/add/drum_add.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/welcome/welcome_index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="57" lean-forward="false" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/logout/confirm_logout.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="139" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/guitar_model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="160" column="29" lean-forward="false" selection-start-line="160" selection-start-column="26" selection-end-line="160" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/guitar_controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="141" column="56" lean-forward="false" selection-start-line="141" selection-start-column="56" selection-end-line="141" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/guitar_index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/error/drum_error.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="947" column="34" lean-forward="false" selection-start-line="947" selection-start-column="34" selection-end-line="947" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/edit/guitar_edit.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="74" column="18" lean-forward="false" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/delete/drum_delete.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="84" lean-forward="false" selection-start-line="20" selection-start-column="84" selection-end-line="20" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/detail/guitar_detail.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+          <folding>
+            <element signature="e#7#156#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/detail/drum_detail.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="93" column="10" lean-forward="false" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#152#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/add/guitar_add.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/confirm/confirm_guitar.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/index/drum_index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/drum_index_view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/guitar/index/guitar_index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/drum/edit/drum_edit.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/error/user_error.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="134" lean-forward="false" selection-start-line="30" selection-start-column="134" selection-end-line="30" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/confirm/confirm_login.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="81" lean-forward="false" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
