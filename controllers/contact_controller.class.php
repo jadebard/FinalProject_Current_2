@@ -10,10 +10,10 @@
 
 class ContactController {
 
-    //index action that displays all books
+    //index action that displays all items
     public function index() {
 
-        // display all books
+        // display all items
         $view = new ContactIndex();
         $view->display();
     }

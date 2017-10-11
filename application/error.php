@@ -1,7 +1,7 @@
 <?php
 /**
- * Author: Louie Zhu
- * Date: Mar 6, 2016
+ * Author: Group 14
+ * Date: 04/06/2017
  * Name: error.php
  * Description: this script displays an error message. This script is globally available throughout the application. 
  *     The message to be displayed is passed to this script via variable $message. The dispatcher uses this to 

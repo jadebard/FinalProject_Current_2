@@ -91,11 +91,13 @@ class Database {
     public function getDrumTypeTable() {
         return $this->param['tblDrumType'];
     }
-    
+
+    //return the name of the table that stores users
     public function getUsersTable() {
         return $this->param['tblUsers'];
     }
-    
+
+    //returns the name of the table that stores the user roles.
     public function getRolesTable() {
         return $this->param['tblRoles'];
     }

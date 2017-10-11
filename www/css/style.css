@@ -202,11 +202,12 @@ body footer {
 
 #login {
     cursor: pointer;
+    transition: 0.5s;
 }
 
 #login:hover {
     color: #555;
-    transition: 0.5s;
+    /*transition: 0.5s;*/
 }
 
 .loginForm {
